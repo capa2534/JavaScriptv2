@@ -34,3 +34,4 @@ console.log({juegosBorrados, juegos});
 
 let falloutIndex = juegos.indexOf('fallout');
 console.log({falloutIndex});
+
